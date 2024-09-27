@@ -33,29 +33,29 @@ Dengan menjalankan command diatas semua file cypress yang berada pada cypress/e2
 - Sekarang mari kita tulis tes sukses pertama kita.
 - Tulis Script ini di file js yang sudah kamu buat sebelumnya
 
-  ![](Aspose.Words.8c6a382b-6281-4efc-b62b-32167ef6a29e.002.png)
+  ![](document/Aspose.Words.8c6a382b-6281-4efc-b62b-32167ef6a29e.002.png)
 
 - Save file kamu dan cypress browser akan mereload halamanmu dan memunculkan hasil tes dari script yang sudah kamu tulis.
 
-  ![](Aspose.Words.8c6a382b-6281-4efc-b62b-32167ef6a29e.003.png)
+  ![](document/Aspose.Words.8c6a382b-6281-4efc-b62b-32167ef6a29e.003.png)
 
 - Sekarang mari kita tulis tes gagal pertama kita.
 - Tulis Script ini di file js yang sudah kamu buat sebelumnya
 
-  ![](Aspose.Words.8c6a382b-6281-4efc-b62b-32167ef6a29e.004.png)
+  ![](document/Aspose.Words.8c6a382b-6281-4efc-b62b-32167ef6a29e.004.png)
 
 - Save file kamu dan cypress browser akan mereload halamanmu dan memunculkan hasil tes dari script yang sudah kamu tulis.
 
-  ![](Aspose.Words.8c6a382b-6281-4efc-b62b-32167ef6a29e.005.png)
+  ![](document/Aspose.Words.8c6a382b-6281-4efc-b62b-32167ef6a29e.005.png)
 
 - Setelah kita mengetahui hasil yang akan keluar jika sukses dan gagal mari kita mencoba membuat testing code untuk mengakses halaman user site beyondly.
 - Tulis script ini
 
-  ![](Aspose.Words.8c6a382b-6281-4efc-b62b-32167ef6a29e.006.jpeg)
+  ![](document/Aspose.Words.8c6a382b-6281-4efc-b62b-32167ef6a29e.006.jpeg)
 
 - Save file kamu dan cypress browser akan mereload halamanmu dan memunculkan hasil tes dari script yang sudah kamu tulis.
 
-  ![](Aspose.Words.8c6a382b-6281-4efc-b62b-32167ef6a29e.007.jpeg)
+  ![](document/Aspose.Words.8c6a382b-6281-4efc-b62b-32167ef6a29e.007.jpeg)
 
 Setelah menjalankan test tersebut maka halaman kalian akan meredirect ke halaman
 
